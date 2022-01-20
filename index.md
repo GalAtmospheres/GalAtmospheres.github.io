@@ -1,5 +1,5 @@
 ---
-title: My page
+title: Galactic Atmospheres Sandbox
 layout: default
 ---
 
