@@ -25,7 +25,7 @@ __And so is this text.__
 **_As is this!_**
 *__And this!__*
 
-I end with two spaces (highlight me to see them).
+I end with two spaces  (highlight me to see them).
 
 There's a <br /> above me!  
   
